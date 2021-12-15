@@ -1,0 +1,9 @@
+mail1:
+  hostName: smtp.papajames.tw
+  port: 25
+  from: dummy-email-account@gmail.com
+
+mail2:
+  hostName: mail.papajames.tw
+  port: 25
+  from: dummy-email-account@gmail.com
