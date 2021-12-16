@@ -24,6 +24,15 @@
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/greeting" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/greeting" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/payroll" />
         <option name="gradleJvm" value="11" />
         <option name="modules">
